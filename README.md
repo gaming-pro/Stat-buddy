@@ -1,2 +1,2 @@
-# Project-
+# Stat-buddy
 This is project 
